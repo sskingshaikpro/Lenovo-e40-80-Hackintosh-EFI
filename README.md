@@ -4,7 +4,7 @@
 
 
 # Lenovo E40-80 Hackintosh OpenCore
-# Total Installation Guid With EFI Folder Available On My Website (jrk.freewebhostmost.com) 
+# Total Installation Guid With EFI Folder Available On My Website (https://jrk.freewebhostmost.com) 
 
 
 
