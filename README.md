@@ -53,7 +53,7 @@
 
 ## What's not working:
 
-- Audio / Speaker / Headphone / Microphone
+- Audio / Speaker / Headphone / Microphone It Will Be Comming Soon.
 - HDMI output
 
 
