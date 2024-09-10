@@ -48,13 +48,13 @@
 - VGA output
 - HiDPI
 - Sleep / Wake up
-
+- Audio / Speaker / Headphone.
+- HDMI output
 
 
 ## What's not working:
 
-- Audio / Speaker / Headphone / Microphone It Will Be Comming Soon.
-- HDMI output
+- Microphone.
 
 
 
